@@ -1,8 +1,9 @@
 # Ai-podcast-generator
 🎙️ AI PODCAST GENERATOR
 Transform any topic into a fully voiced podcast in seconds — powered by Google Gemini, Murf.ai, and N8N automation.
-<img width="1920" height="1080" alt="Screenshot (156)" src="https://github.com/user-attachments/assets/6ad27919-7fe5-4c0d-b772-618b2c41c17a" />
+
 <img width="1920" height="1080" alt="Screenshot (157)" src="https://github.com/user-attachments/assets/5e879a1e-69cf-45f0-9b05-091907589f2c" />
+
 
 🌐 Live Demo
 👉 Try it here → https://pastel-pod-pal-83.lovable.app
@@ -81,6 +82,8 @@ Frontend UI
 <img width="1920" height="1080" alt="Screenshot (158)" src="https://github.com/user-attachments/assets/e75ef2ab-7091-416f-bab6-a3eaf0ffc971" />
 
 N8N Workflow
+
+<img width="1920" height="1080" alt="Screenshot (156)" src="https://github.com/user-attachments/assets/6ad27919-7fe5-4c0d-b772-618b2c41c17a" />
 
 LinkedIn: https://www.linkedin.com/in/sattu-shivamani-4096a1296/
 GitHub: https://github.com/shivamani-oss
